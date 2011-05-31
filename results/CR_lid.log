@@ -1,0 +1,6 @@
+Crouzeix-Raviart, 1, DG, 0, 4, 272, 5.531440e-01, 1.604691e-33
+Crouzeix-Raviart, 1, DG, 0, 8, 1056, 6.494000e-02, 8.233024e-33
+Crouzeix-Raviart, 1, DG, 0, 16, 4160, 1.123630e-01, 3.202705e-32
+Crouzeix-Raviart, 1, DG, 0, 32, 16512, 3.500660e-01, 1.509634e-31
+Crouzeix-Raviart, 1, DG, 0, 64, 65792, 1.573282e+00, 6.310173e-31
+Crouzeix-Raviart, 1, DG, 0, 128, 262656, 1.068431e+01, 2.541254e-30
